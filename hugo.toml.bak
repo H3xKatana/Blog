@@ -1,0 +1,4 @@
+baseURL: 'https://katana.github.io/'
+languageCode: en-us
+title: katana
+theme: PaperMod

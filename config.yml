@@ -1,0 +1,89 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://katana.github.io/"
+title: Katana
+paginate: 5
+theme: [PaperMod]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+
+params:
+  homeInfoParams:
+    Title: H3x_Blade team
+    Content: 👋 Welcome to demo page of Hugo's theme PaperMod!
+  
+
+
+  socialIcons:
+    - name: linkedin
+      title: View my portfolio
+      url: "https://www.linkedin.com/in/kara-mohamed-mourtadha-658a02280/"
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/H3xKatana"
+
+    - name: X
+      title: Share PaperMod on X/Twitter
+      url: "https://twitter.com/h3xkatana"
+
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 5
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
