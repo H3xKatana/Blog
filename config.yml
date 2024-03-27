@@ -27,11 +27,14 @@ outputs:
 params:
   homeInfoParams:
     Title: H3x_Blade team
-    Content: 👋 Welcome to demo page of Hugo's theme PaperMod!
+    Content: 👋 Welcome to my personal blog ,here i post ctf-writeups and projects
   
 
 
   socialIcons:
+    - name: X
+      title: Share PaperMod on X/Twitter
+      url: "https://twitter.com/h3xkatana"
     - name: linkedin
       title: View my portfolio
       url: "https://www.linkedin.com/in/kara-mohamed-mourtadha-658a02280/"
@@ -39,9 +42,7 @@ params:
       title: View Source on Github
       url: "https://github.com/H3xKatana"
 
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://twitter.com/h3xkatana"
+    
 
 
   ShowReadingTime: true
