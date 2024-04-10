@@ -3,8 +3,6 @@ title: "First_post"
 date: 2024-03-27T13:11:06+01:00
 tags : ['angr','python','picoCTF2024']
 categories : ['ctf-writeups']
-
-
 author: "Katana"
 # author: ["Me", "You"] # multiple authors
 showToc: true

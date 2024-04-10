@@ -29,5 +29,33 @@
       <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
+    <item>
+      <title>DFIR</title>
+      <link>http://localhost:1313/tags/dfir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dfir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackthebox</title>
+      <link>http://localhost:1313/tags/hackthebox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hackthebox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>http://localhost:1313/tags/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sherlocks</title>
+      <link>http://localhost:1313/tags/sherlocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sherlocks/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
