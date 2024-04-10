@@ -12,6 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Unit42 htb sherlocks writeup"
+canonifyURLs : true
 canonicalURL: "https://h3xkatana.github.io/Blog/post/unit42/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
