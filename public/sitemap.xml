@@ -35,12 +35,12 @@
   </url><url>
     <loc>http://localhost:1313/tags/hackthebox/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/unit42/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/post/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/sherlocks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/post/unit42/</loc>
   </url>
 </urlset>

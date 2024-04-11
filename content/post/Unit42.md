@@ -1,5 +1,5 @@
 ---
-title: "hackthebox sherlocks Unit42"
+title: "Unit42 writeup"
 summary: "Unit42 htb sherlocks writeup"
 # weight: 1
 # aliases: ["/first"]
@@ -41,7 +41,7 @@ INTRO:
 In this Sherlock, you will familiarize yourself with Sysmon logs and various useful EventIDs for identifying and analyzing malicious activities on a Windows system. Palo Alto's Unit42 recently conducted research on an UltraVNC campaign, wherein attackers utilized a backdoored version of UltraVNC to maintain access to systems. This lab is inspired by that campaign and guides participants through the initial access stage of the campaign.
 
 
-![Alt text](/img/1.png)
+![Alt text](/post/1.png)
 
 We have a file containing Windows event logs that capture suspicious activity.
 These logs are accompanied by well-defined rules for detection.
