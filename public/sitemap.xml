@@ -11,7 +11,7 @@
     <loc>http://localhost:1313/categories/ctf-writeups/</loc>
     <lastmod>2024-03-27T13:11:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/first_post/</loc>
+    <loc>http://localhost:1313/post/1/first_post/</loc>
     <lastmod>2024-03-27T13:11:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -41,6 +41,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/sherlocks/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/unit42/</loc>
+    <loc>http://localhost:1313/post/2/unit42/</loc>
   </url>
 </urlset>
