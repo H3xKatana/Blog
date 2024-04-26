@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>HackTheBox on Katana</title>
-    <link>http://localhost:1313/tags/hackthebox/</link>
-    <description>Recent content in HackTheBox on Katana</description>
+    <title>Sherlock on Katana</title>
+    <link>http://localhost:1313/tags/sherlock/</link>
+    <description>Recent content in Sherlock on Katana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/hackthebox/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sherlock/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jingle Bell HackTheBox Sherlock Writeup</title>
       <link>http://localhost:1313/post/3/jinglebell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/3/jinglebell/</guid>
       <description>Explore Windows artifact analysis focusing on notification artifacts in this Jingle Bell HackTheBox Sherlock writeup.</description>
-    </item>
-    <item>
-      <title>Unit42 writeup</title>
-      <link>http://localhost:1313/post/2/unit42/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2/unit42/</guid>
-      <description>Unit42 hack the box  sherlock writeup</description>
     </item>
   </channel>
 </rss>

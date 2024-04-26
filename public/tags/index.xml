@@ -37,10 +37,17 @@
       <description></description>
     </item>
     <item>
-      <title>Hackthebox</title>
+      <title>HackTheBox</title>
       <link>http://localhost:1313/tags/hackthebox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hackthebox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notification Artifacts</title>
+      <link>http://localhost:1313/tags/notification-artifacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notification-artifacts/</guid>
       <description></description>
     </item>
     <item>
@@ -51,10 +58,24 @@
       <description></description>
     </item>
     <item>
+      <title>Sherlock</title>
+      <link>http://localhost:1313/tags/sherlock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sherlock/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Sherlocks</title>
       <link>http://localhost:1313/tags/sherlocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sherlocks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows Artifacts</title>
+      <link>http://localhost:1313/tags/windows-artifacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/windows-artifacts/</guid>
       <description></description>
     </item>
   </channel>

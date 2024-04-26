@@ -35,12 +35,20 @@
   </url><url>
     <loc>http://localhost:1313/tags/hackthebox/</loc>
   </url><url>
+    <loc>http://localhost:1313/post/3/jinglebell/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/notification-artifacts/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/post/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/sherlock/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/sherlocks/</loc>
   </url><url>
     <loc>http://localhost:1313/post/2/unit42/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows-artifacts/</loc>
   </url>
 </urlset>
