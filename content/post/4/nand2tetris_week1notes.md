@@ -9,6 +9,9 @@ author: "Katana"
 description: "A comprehensive guide to understanding the basics of Boolean logic, truth tables, and implementing logic gates in the Nand2Tetris course."
 canonicalURL: "https://h3xkatana.github.io/Blog/post/Nand2Tetris-Week1/"
 categories: ["Education", "Computer Science"]
+showToc: true  # Enable Table of Contents
+tocOpen: true
+
 
 ---
 

@@ -30,31 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Boolean Logic</title>
-      <link>http://localhost:1313/tags/boolean-logic/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/boolean-logic/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Digital Systems</title>
       <link>http://localhost:1313/tags/digital-systems/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/digital-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HDL</title>
-      <link>http://localhost:1313/tags/hdl/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hdl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Logic Gates</title>
-      <link>http://localhost:1313/tags/logic-gates/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/logic-gates/</guid>
       <description></description>
     </item>
     <item>
@@ -65,9 +44,30 @@
       <description></description>
     </item>
     <item>
+      <title>Boolean Logic</title>
+      <link>http://localhost:1313/tags/boolean-logic/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/boolean-logic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HDL</title>
+      <link>http://localhost:1313/tags/hdl/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hdl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logic Gates</title>
+      <link>http://localhost:1313/tags/logic-gates/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/logic-gates/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Truth Tables</title>
       <link>http://localhost:1313/tags/truth-tables/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/truth-tables/</guid>
       <description></description>
     </item>

@@ -6,12 +6,12 @@
     <description>Recent content in Boolean Logic on Katana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/boolean-logic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nand2Tetris Week 1 Notes</title>
       <link>http://localhost:1313/post/4/nand2tetris_week1notes/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/4/nand2tetris_week1notes/</guid>
       <description>A comprehensive guide to understanding the basics of Boolean logic, truth tables, and implementing logic gates in the Nand2Tetris course.</description>
     </item>

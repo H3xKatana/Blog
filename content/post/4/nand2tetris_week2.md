@@ -9,8 +9,12 @@ author: "Katana"
 description: "An in-depth exploration of Boolean arithmetic, binary numbers, and their applications in digital systems as part of the Nand2Tetris course."
 canonicalURL: "https://h3xkatana.github.io/Blog/post/Nand2Tetris-Week2/"
 categories: ["Education", "Computer Science"]
+showToc: true  # Enable Table of Contents
+tocOpen: true
 
 ---
+
+
 
 ### Boolean Arithmetic
 
