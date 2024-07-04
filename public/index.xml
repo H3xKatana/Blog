@@ -6,8 +6,22 @@
     <description>Recent content on Katana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Mar 2024 13:11:06 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nand2Tetris Week 2 Notes: Boolean Arithmetic</title>
+      <link>http://localhost:1313/post/4/nand2tetris_week2/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/4/nand2tetris_week2/</guid>
+      <description>An in-depth exploration of Boolean arithmetic, binary numbers, and their applications in digital systems as part of the Nand2Tetris course.</description>
+    </item>
+    <item>
+      <title>Nand2Tetris Week 1 Notes</title>
+      <link>http://localhost:1313/post/4/nand2tetris_week1notes/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/4/nand2tetris_week1notes/</guid>
+      <description>A comprehensive guide to understanding the basics of Boolean logic, truth tables, and implementing logic gates in the Nand2Tetris course.</description>
+    </item>
     <item>
       <title>First_post</title>
       <link>http://localhost:1313/post/1/first_post/</link>

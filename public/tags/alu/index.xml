@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ALU on Katana</title>
+    <link>http://localhost:1313/tags/alu/</link>
+    <description>Recent content in ALU on Katana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nand2Tetris Week 2 Notes: Boolean Arithmetic</title>
+      <link>http://localhost:1313/post/4/nand2tetris_week2/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/4/nand2tetris_week2/</guid>
+      <description>An in-depth exploration of Boolean arithmetic, binary numbers, and their applications in digital systems as part of the Nand2Tetris course.</description>
+    </item>
+  </channel>
+</rss>
