@@ -6,8 +6,15 @@
     <description>Recent content on Katana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dune OS Official Release</title>
+      <link>http://localhost:1313/post/5/duneos/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/5/duneos/</guid>
+      <description>Learn about the official release of Dune OS, a custom Linux distribution created for educational use. This post covers the features, installation process, and the team behind the project.</description>
+    </item>
     <item>
       <title>Nand2Tetris Week 2 Notes: Boolean Arithmetic</title>
       <link>http://localhost:1313/post/4/nand2tetris_week2/</link>
