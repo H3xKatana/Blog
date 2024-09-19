@@ -7,7 +7,7 @@ tags:
   - Dune OS
   - Linux Distribution
   - Education
-  - Custom OS
+  - OS
   - Open Source
 author: "Katana"
 description: "Learn about the official release of Dune OS, a custom Linux distribution created for educational use. This post covers the features, installation process, and the team behind the project."

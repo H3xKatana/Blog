@@ -6,8 +6,36 @@
     <description>Recent content in Categories on Katana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheatsheet</title>
+      <link>http://localhost:1313/categories/cheatsheet/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cheatsheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/categories/education/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SOC</title>
+      <link>http://localhost:1313/categories/soc/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/soc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/categories/windows/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/windows/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/categories/linux/</link>
@@ -20,13 +48,6 @@
       <link>http://localhost:1313/categories/computer-science/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/computer-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Education</title>
-      <link>http://localhost:1313/categories/education/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/education/</guid>
       <description></description>
     </item>
     <item>

@@ -6,8 +6,15 @@
     <description>Recent content in Education on Katana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows OS fundemtals  </title>
+      <link>http://localhost:1313/post/6/windows-basics/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/6/windows-basics/</guid>
+      <description>Learn about the Windows OS fundemtals and basics for soc and dfir analyst and cs studetns like permessions and users , groups , firewalls , logs based on letsdefend module in a cheat .</description>
+    </item>
     <item>
       <title>Nand2Tetris Week 2 Notes: Boolean Arithmetic</title>
       <link>http://localhost:1313/post/4/nand2tetris_week2/</link>
